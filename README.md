@@ -33,6 +33,12 @@
 <img alt="Vini-Nodejs" height="22" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>&nbsp;
 <img alt="Vini-AngularJS" height="22" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>&nbsp;
 <img alt="Vini-PostgreSQL" height="22" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanniVINI/GiovanniVINI/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanniVINI/GiovanniVINI/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GiovanniVINI/GiovanniVINI/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
 <br><p><b>Visitors Count</b></p>  
