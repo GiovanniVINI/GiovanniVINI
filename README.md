@@ -9,7 +9,7 @@
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202301/1801602_YmtGlQVv.png">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanniVINI&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats/api?username=GiovanniVINI&show_icons=true&theme=radical)
 </div>
   
   ##
