@@ -9,8 +9,8 @@
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202301/1801602_YmtGlQVv.png">
   
-  ![Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats/api?username=GiovanniVINI&show_icons=true&theme=radical)
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitor8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniVINI&layout=compact&langs_count=7&theme=tokyonight"/>
   
   ##
  
