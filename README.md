@@ -40,4 +40,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=footer"/>
 
-![Snake animation](https://github.com/GiovanniVINI/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GiovanniVINI/GiovanniVINI/blob/output/github-contribution-grid-snake.gif)
