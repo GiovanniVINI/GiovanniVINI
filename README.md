@@ -8,8 +8,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=GiovanniVINI&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
-
 <div align="center">  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanniVINI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniVINI&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -22,25 +20,24 @@
  </div>
  
  ### Main skills:
-<img align="center" alt="Vini-Js" height="22" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
-<img align="center" alt="Vini-HTML" height="22" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
-<img align="center" alt="Vini-CSS" height="22" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
-
-
+<img alt="Vini-Js" height="22" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp;
+<img alt="Vini-HTML" height="22" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;
+<img alt="Vini-CSS" height="22" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;
 
 ### Studying in this moment:
-<img align="center" alt="Vini-Js" height="22" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
-<img align="center" alt="Vini-HTML" height="22" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
-<img align="center" alt="Vini-CSS" height="22" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
-<img align="center" alt="Vini-Nodejs" height="22" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Vini-AngularJS" height="22" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-
+<img alt="Vini-Js" height="22" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp;
+<img alt="Vini-HTML" height="22" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;
+<img alt="Vini-CSS" height="22" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;
+<img alt="Vini-Nodejs" height="22" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>&nbsp;
+<img alt="Vini-AngularJS" height="22" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>&nbsp;
+<img alt="Vini-PostgreSQL" height="22" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GiovanniVINI}/count.svg" /></p> 
+<br><p><b>Visitors Count</b></p>  
+<p><img align="center" src="https://profile-counter.glitch.me/{GiovanniVINI}/count.svg"/></p> 
 <br>
 </div>
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=footer"/>
+
+![Snake animation](https://github.com/GiovanniVINI/blob/output/github-contribution-grid-snake.svg)
