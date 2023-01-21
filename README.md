@@ -32,6 +32,8 @@
 <img alt="Vini-AngularJS" height="22" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>&nbsp;
 <img alt="Vini-PostgreSQL" height="22" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;
 
+![snake gif](https://github.com/GiovanniVINI/GiovanniVINI/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
 <br><p><b>Visitors Count</b></p>  
 <p><img align="center" src="https://profile-counter.glitch.me/{GiovanniVINI}/count.svg"/></p> 
@@ -39,5 +41,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=footer"/>
-
-![snake gif](https://github.com/GiovanniVINI/GiovanniVINI/blob/output/github-contribution-grid-snake.gif)
