@@ -13,9 +13,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniVINI&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![snake gif](https://github.com/GiovanniVINI/GiovanniVINI/blob/output/github-contribution-grid-snake.gif)
-<picture>
-
 <div align="center"> 
 <a href = "mailto:goulartvinicius.ti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vinícius-goulart-705970216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
