@@ -4,14 +4,14 @@
 
 [![Vinícius Giovanni github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GiovanniVINI&bg_color=0d1117&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GiovanniVINI&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GiovanniVINI&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</div>
+<!-- api fora do ar 
 <div align="center">  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanniVINI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniVINI&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div> -->
 
 <div align="center"> 
 <a href = "mailto:goulartvinicius.ti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
