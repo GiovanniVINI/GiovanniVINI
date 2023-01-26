@@ -5,19 +5,19 @@
 [![Vinícius Giovanni github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GiovanniVINI&bg_color=0d1117&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GiovanniVINI&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=GiovanniVINI&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
-<!-- api fora do ar 
+<br>
 <div align="center">  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanniVINI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniVINI&layout=compact&langs_count=7&theme=tokyonight"/>
-</div> -->
+</div> 
 
 <div align="center"> 
 <a href = "mailto:goulartvinicius.ti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vinícius-goulart-705970216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
- 
+
  ### Main skills:
 <img alt="Vini-Js" height="22" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp;
 <img alt="Vini-HTML" height="22" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;
